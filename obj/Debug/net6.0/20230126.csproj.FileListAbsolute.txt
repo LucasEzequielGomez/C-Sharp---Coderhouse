@@ -1,0 +1,5 @@
+C:\Users\ASUS\source\repos\20230126\20230126\obj\Debug\net6.0\20230126.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\20230126\20230126\obj\Debug\net6.0\20230126.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\20230126\20230126\obj\Debug\net6.0\20230126.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\20230126\20230126\obj\Debug\net6.0\20230126.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\20230126\20230126\obj\Debug\net6.0\20230126.csproj.CoreCompileInputs.cache
